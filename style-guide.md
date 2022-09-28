@@ -22,22 +22,19 @@ Ionicon
 ## Colors
 
 ``` css
---hoockers-green_20: hsl(148, 20%, 38%, 0.2);
---pale-spring-bud: hsl(60, 68%, 85%);
---hoockers-green: hsl(148, 20%, 38%);
---spanish-gray: hsl(0, 0%, 61%);
---light-gray: hsl(0, 0%, 80%);
---cultured-1: hsl(0, 0%, 97%);
---cultured-2: hsl(60, 6%, 93%);
---gray-web: hsl(0, 0%, 49%);
---white_30: hsl(0, 0%, 100%, 0.3);
---black_70: hsla(0, 0%, 0%, 0.7);
---black_50: hsla(0, 0%, 0%, 0.5);
---black_15: hsla(0, 0%, 0%, 0.15);
---black_10: hsla(0, 0%, 0%, 0.1);
---black_5: hsla(0, 0%, 0%, 0.05);
---white: hsl(0, 0%, 100%);
---black: hsl(0, 0%, 0%);
+ --dark-magenta: hsl(300,100%,27.3%);
+  --spanish-gray: hsl(0, 0%, 61%);
+  --gray-web: hsl(0, 0%, 49%);
+  --white_30: hsl(0, 0%, 100%, 0.3);
+  --black_15: hsla(0, 0%, 0%, 0.15);
+  --black_5: hsla(0, 0%, 0%, 0.05);
+  --white: hsl(0, 0%, 100%);
+  --black: hsl(0, 0%, 0%);
+  --pink: hsl(349.5,100%,87.6%);
+  --navy-blue: hsl(240,100%,25%);
+  --amethys-smoke: hsl(282.9,15.1%,63.5%);
+  --amour: hsl(318,55.6%,92.9%);
+  --fuchsia-pink: hsl(314.3,40%,56.9%);
 ```
 
 ## Gradient color
